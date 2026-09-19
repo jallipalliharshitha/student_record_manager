@@ -1,0 +1,8 @@
+========================================================================================
+STUDENT RECORDS (Opened via Notepad)
+Format: STUDENT ID | NAME | AGE | COURSE | EMAIL
+========================================================================================
+S101 | Alice Johnson | 20 | Computer Science | alice.johnson@example.com
+S102 | Bob Williams | 21 | Information Technology | bob.williams@university.edu
+S103 | Clara Davis | 19 | Software Engineering | clara.d@college.ac.in
+444 | harshitha | 19 | cse | harshitha@cse.com

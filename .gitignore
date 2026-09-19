@@ -1,0 +1,18 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary test outputs
+test_students.txt
+simulated_students.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Editor directories
+.vscode/
+.idea/
